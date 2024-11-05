@@ -1,4 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+A real-time cryptocurrency analytics dashboard built with Next.js, leveraging the Binance API for comprehensive market analysis and trading insights.
+
+![Dashboard Preview](./public/dashboard-preview.png)
+
+## 🚀 Features
+
+- **Real-Time Market Data**
+  - Live price updates via WebSocket
+  - 24h volume tracking
+  - High/Low price indicators
+  - Price change percentages
+
+- **Advanced Analytics**
+  - Correlation matrix analysis
+  - Risk metrics calculation
+  - Liquidity analysis
+  - Volume distribution across exchanges
+
+- **Technical Analysis**
+  - Interactive price charts
+  - Market depth visualization
+  - Bid-Ask spread tracking
+  - Multi-timeframe analysis
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js 14
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Data Visualization:** Recharts
+- **API Integration:** Binance API
+- **Real-time Updates:** WebSocket
+- **State Management:** React Hooks
+
 
 ## Getting Started
 
