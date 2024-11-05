@@ -1,6 +1,9 @@
 A real-time cryptocurrency analytics dashboard built with Next.js, leveraging the Binance API for comprehensive market analysis and trading insights.
 
-![Dashboard Preview](./public/dashboard-preview.png)
+![image](https://github.com/user-attachments/assets/1185b102-79eb-4e4f-91be-af2280f0b97f)
+![image](https://github.com/user-attachments/assets/5a1de686-3570-4bda-ae53-1fce31c84845)
+
+
 
 ## 🚀 Features
 
